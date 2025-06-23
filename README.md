@@ -135,7 +135,6 @@ evaluation
 If you have any questions, feel free to connect:
 
 Developer: Rangesh Pandian PT
-GitHub: []
 Email: [rangeshpandian@gmail.com]
 
 ---
