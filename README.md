@@ -107,7 +107,11 @@ These plots help in understanding data skewness and support the outlier removal 
 
 ## PREVIEW 
 
+![Image](https://github.com/user-attachments/assets/387bfffe-ede3-413e-a88c-2be892ba8fc7)
 
+![Image](https://github.com/user-attachments/assets/74325845-fa91-4f6a-833c-b02e873aba5d)
+
+---
 
 💡 Open the Notebook
 Open Titanic_Preprocessing_Notebook.ipynb in JupyterLab or Jupyter Notebook to interactively explore the steps and visualize the process.
